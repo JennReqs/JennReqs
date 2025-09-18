@@ -1,7 +1,6 @@
- Hi, I’m @JennReqs
- <br>
- I’m interested in Data Analysis
- I’m currently learning SQL
+ Hi, I’m @JennReqs <br>
+ I’m interested in Data Analysis <br>
+ I’m currently learning SQL <br>
  Fun fact: I run to be able to relieve stress and space out any difficulties in life.
 
 <!---
